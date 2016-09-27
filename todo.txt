@@ -1,3 +1,14 @@
-drucker in kompatibilit�tsmodus umschalten
-livebild spiegeln
-lampe?/blitz?
+gehäuse schwarz durchgefärbtes mdf
+
+drucker in kompatibilitätsmodus umschalten
+
+lampe?/blitz?/led-streifen	http://www.ikea.com/de/de/catalog/products/60263729/
+
+impulse münzprüfer zählen: 
+	https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/
+	event_detected() function
+	g.add_event_detect(2, g.RISING, callback=increaserev)
+
+beleuchteter startknopf
+
+
