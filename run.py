@@ -55,8 +55,8 @@ def capture_image(num):
         camera.contrast = 85
         camera.iso = 1600
         camera.capture(str(num)+ ".jpg", quality = 90, thumbnail = None, resize = (682, 512))
-        camera.stop_preview()
-        camera.start_preview()
+        #camera.stop_preview()
+        #camera.start_preview()
 
         print "finished"
         pass
